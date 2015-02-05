@@ -1,6 +1,6 @@
 {
   "name": "ember-cli-jquery-storage-api",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Adds jquery.storage.api.js to ember-cli application",
   "directories": {
     "doc": "doc",
